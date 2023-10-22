@@ -24,7 +24,7 @@ const pam = {
   involvedIn: {
                  graduate: "Eletronics",
                  student: "Physics",
-                 developer: "Software full stack"
+                 developer: "Full stack software"
               },
  challenge: "Using non-violent communication to change the way the flow of information propagates in society"
 }
