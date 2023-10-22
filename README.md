@@ -24,8 +24,7 @@ const pam = {
   involvedIn: {
                  graduate: "Eletronics",
                  student: "Physics",
-                 member: "Apex Rocketry",
-                 developer: "Eberick - AltoQi"
+                 developer: "Software full stack"
               },
  challenge: "Using non-violent communication to change the way the flow of information propagates in society"
 }
