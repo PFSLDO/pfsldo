@@ -1,11 +1,3 @@
-<a href="https://www.instagram.com/pamelafialho__/">
-  <img align="left" alt="Pamela's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/pamela-fialho/">
-  <img align="left" alt="Pamela's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
-
 ### Hey there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br />
 
