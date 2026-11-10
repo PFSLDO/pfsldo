@@ -1,24 +1,24 @@
-### Hey there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<br />
+### Hey there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 
-Hi, I'm Pamela Fialho, a passionate Electronics graduate, Physics student, and full stack software developer.
-I'm an amateur photographer, horror movies fan by nature and a mid-level trail runner!
+I'm **Pamela Fialho**, a software engineer with a background in electronics and physics.
+I spent the last five years building engineering software in **C++ and Qt**, and I like
+working across the whole stack: from firmware and sensors to desktop, web and mobile apps.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+Off the keyboard I'm an amateur photographer, a horror movie fan by nature and a trail runner.
 
-```c++
-class Pamela {
-public:
-    using Skills = std::vector<std::string>;
+🌐 [Portfolio](https://pfsldo.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/pamela-fialho/)
 
-    Skills code{"C", "C++", "Python", "Java", "HTML", "CSS"};
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...
 
-    std::string background = "Electronics + Physics + Software Engineering";
+```cpp
+#include <string>
+#include <vector>
 
-    std::string currently = "Building software and understanding the universe";
+struct Pamela {
+    std::vector<std::string> languages{"C++", "C", "TypeScript", "Python", "Java"};
+    std::vector<std::string> tools{"Qt", "React", "React Native", "Next.js", "Supabase", "MCP"};
 
-    std::string challenge = "Balancing AI in our workflows without losing our humanity along the way";
+    std::string background = "Electronics (IFSC) + Physics (UFSC) + Software Engineering";
+    std::string currently  = "Building software and trying to understand the universe";
+    std::string challenge  = "Bringing AI into our workflows without losing our humanity along the way";
 };
-```
-
----
